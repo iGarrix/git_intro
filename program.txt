@@ -3,5 +3,5 @@ initial
 // main news [incoommm]
 // new feats
 
-void add_feat
-void add_feat_comm
+void add_feat [fix]
+void add_feat_comm [fix]
