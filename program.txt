@@ -1,6 +1,5 @@
 initial
 
-// main [b1]
-
+// main [main] [b1]
 
 [b1]
