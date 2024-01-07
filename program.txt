@@ -1,6 +1,7 @@
 initial
 
 // main news [incoommm]
+// new feats [add updates] [hotfix]
 <<<<<<< HEAD
 // new feats [add updates] [new upts]
 =======
