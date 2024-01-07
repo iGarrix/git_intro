@@ -1,3 +1,5 @@
 initial
 
-// main [main]
+// main [main] [b1]
+
+[b1]
