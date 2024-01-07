@@ -1,5 +1,6 @@
 initial
 
-// main [main] [b1]
+// main extends b2
 
-[b1]
+//b2 code
+//b2 code1
