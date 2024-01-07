@@ -1,7 +1,11 @@
 initial
 
 // main news [incoommm]
+<<<<<<< HEAD
 // new feats [add updates] [new upts]
+=======
+// new feats [add updates] [hotfix]
+>>>>>>> aa90b7d (hf)
 
 void add_feat [fix]
 void add_feat_comm [fix]
