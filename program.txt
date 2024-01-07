@@ -4,3 +4,4 @@ initial
 // new feats
 
 void add_feat
+void add_feat_comm
