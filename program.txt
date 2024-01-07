@@ -1,7 +1,1 @@
 initial
-
-// main news [incoommm]
-// new feats [add updates] [hotfix]
-
-void add_feat [fix]
-void add_feat_comm [fix]
