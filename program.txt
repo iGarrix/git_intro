@@ -1,3 +1,6 @@
 initial
 
-// main [main updated: no extends]
+// main [main updated: extends b2]
+
+//b2 code
+//b2 code1
