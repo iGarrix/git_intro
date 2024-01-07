@@ -1,4 +1,4 @@
 initial
 
-// main news [update after newer]
+// main news
 // newer methods
