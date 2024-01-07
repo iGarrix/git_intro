@@ -1,5 +1,3 @@
 initial
 
-// main [main] [b1]
-
-[b1]
+// main [main updated: no extends]
