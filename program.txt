@@ -1,9 +1,14 @@
 initial
 
-// main [main updated: extends b2, st]
+// main [main updated: extends b2, vet, st]
 
 //b2 code
 //b2 code1
+
+[vet] some1
+[vet] some2
+[vet] some3
+[vet] some4
 
 [st] some1
 [st] some1
