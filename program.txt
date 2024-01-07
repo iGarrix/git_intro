@@ -1,5 +1,4 @@
 initial
 
 // main news [updates]
-// new2
-// news1
+// new feats
