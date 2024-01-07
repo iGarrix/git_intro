@@ -2,3 +2,5 @@ initial
 
 // main news [updates]
 // new feats
+
+void add_feat
