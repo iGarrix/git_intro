@@ -1,5 +1,5 @@
 initial
 
-// main news [some changes]
+// main news
 // new2
 // news1
