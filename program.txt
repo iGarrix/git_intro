@@ -1,4 +1,3 @@
 initial
 
 // main news
-// newer methods
